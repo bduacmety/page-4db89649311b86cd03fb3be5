@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "47339f4fd2d5ba4fa0af2faa",
+  "owner": "bduacmety",
+  "repo": "page-4db89649311b86cd03fb3be5",
+  "title": "飞飞网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4db89649311b86cd03fb3be5",
+      "a": "飞飞网络",
+      "b": "",
+      "entity": "飞飞网络",
+      "brand": "飞飞网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "711264293e07f7bf8c26a0f022dc24591f253c673aaa743c8e510586db17e19e",
+      "content": {
+        "keyword1": "飞飞网络",
+        "keyword2": "",
+        "primary_entity": "飞飞网络",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "飞飞网络：安全透明的加密网络服务，满足不同用户和团队的隐私需求。了解我们的基础版、旗舰版和团队版套餐，以及如何开始使用。",
+          "AI_DESCRIPTION": "飞飞网络：安全透明的加密网络服务，满足不同用户和团队的隐私需求。了解我们的基础版、旗舰版和团队版套餐，以及如何开始使用。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        :root {--primary: #00d4c8;--gray: #333;--light: #f8f9fa;--white: #fff}\n        * {margin:0;padding:0;box-sizing:border-box}\n        body {font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;line-height: 1.7;color: var(--gray);background: #f8f9fa}\n        .container {max-width: 1200px;margin: 0 auto;padding: 0 20px}\n        header {background: #fff;box-shadow: 0 2px 10px rgba(0,0,0,0.08);position: sticky;top: 0;z-index: 100}\n        .header-content {display: flex;align-items: center;justify-content: space-between;height: 70px}\n        .logo {font-size: 28px;font-weight: 700;color: var(--gray)}\n        nav a {color: var(--gray);text-decoration: none;margin-left: 24px;font-size: 15px;font-weight: 500}\n        .breadcrumb {margin: 20px 0 30px;font-size: 14px;color: #666}\n        .breadcrumb a {color: var(--primary)}\n        .hero {display: flex;align-items: center;min-height: 100vh;background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)}\n        .hero-content {flex: 1;padding-right: 60px;max-width: 520px}\n        .hero-content h1 {font-size: 3.8rem;font-weight: 700;line-height: 1.1;margin-bottom: 24px;color: var(--gray)}\n        .hero-content p {font-size: 1.35rem;color: #555;margin-bottom: 32px}\n        .hero-cta {display: inline-flex;align-items: center;gap: 12px;background: var(--primary);color: white;padding: 14px 32px;border-radius: 8px;font-size: 1.1rem;font-weight: 600;text-decoration: none;transition: all 0.3s}\n        .hero-cta:hover {background: #00c0b0;transform: translateY(-3px)}\n        .hero-visual {flex: 1;background: #fff;border-radius: 20px;padding: 40px;box-shadow: 0 20px 50px rgba(0,0,0,0.1);position: relative}\n        .hero-visual::before {content: '';position: absolute;inset: 0;background: linear-gradient(145deg, #00d4c8, #00a8b8);opacity: 0.08;border-radius: 20px}\n        .hero-visual-content {height: 100%;display: flex;align-items: center;justify-content: center;position: relative}\n        .hero-visual-content p {font-size: 1.6rem;font-weight: 600;color: #333;text-align: center;line-height: 1.4}\n        .section {padding: 90px 0}\n        .section h2 {font-size: 2.4rem;font-weight: 700;text-align: center;margin-bottom: 60px;color: var(--gray)}\n        .plans {display: flex;flex-direction: column;gap: 28px}\n        .plan {background: white;border-radius: 16px;overflow: hidden;box-shadow: 0 10px 30px rgba(0,0,0,0.06)}\n        .plan-header {display: flex;align-items: center;gap: 20px;padding: 32px 40px;background: var(--light)}\n        .plan-number {font-size: 3.2rem;font-weight: 700;color: var(--primary);line-height: 1;width: 64px}\n        .plan-details {flex: 1}\n        .plan-name {font-size: 1.55rem;font-weight: 700;margin-bottom: 8px}\n        .plan-price {font-size: 1.85rem;font-weight: 700;color: var(--primary);margin-bottom: 4px}\n        .plan-annual {font-size: 0.95rem;color: #888}\n        .plan-features {padding: 0 40px 40px}\n        .plan-features ul {list-style: none}\n        .plan-features li {padding: 14px 0;font-size: 1.05rem;border-bottom: 1px solid #eee}\n        .plan-features li:last-child {border-bottom: none}\n        .faq {background: #fff;border-radius: 16px;overflow: hidden;box-shadow: 0 10px 30px rgba(0,0,0,0.06)}\n        .faq-item {padding: 28px 40px;border-bottom: 1px solid #eee}\n        .faq-item:last-child {border-bottom: none}\n        .faq-question {font-size: 1.2rem;font-weight: 600;color: var(--gray);margin-bottom: 12px}\n        .faq-answer {font-size: 1.05rem;color: #555;line-height: 1.65}\n        .footer {background: #222;color: #ddd;padding: 60px 0 30px}\n        .footer-content {display: flex;justify-content: space-between;align-items: flex-start;flex-wrap: wrap;gap: 40px}\n        .footer-col h4 {color: white;margin-bottom: 20px;font-size: 1.1rem}\n        .footer-col a {color: #bbb;text-decoration: none;display: block;margin-bottom: 8px}\n        .footer-col a:hover {color: var(--primary)}\n        @media (max-width: 768px) {\n            .hero-content {padding-right: 20px;text-align: center}\n            .hero-content h1 {font-size: 2.8rem}\n            .plans {flex-direction: column}\n        }\n    </style><header>\n        <div class=\"container\">\n            <div class=\"header-content\">\n                <div class=\"logo\">飞飞网络</div>\n                <nav>\n                    <a href=\"#plans\">套餐</a>\n                    <a href=\"#faq\">常见问题</a>\n                    <a href=\"#\">帮助中心</a>\n                </nav>\n            </div>\n        </div>\n    </header>\n\n    <div class=\"breadcrumb\">\n        <div class=\"container\">\n            <a href=\"#\">首页</a> / <a href=\"#\">产品</a>\n        </div>\n    </div>\n\n    \n    <section class=\"hero\">\n        <div class=\"container\">\n            <div class=\"hero-content\">\n                <h1>飞飞网络 · 安全透明的加密网络服务</h1>\n                <p>我们为您提供层层加密的网络通道，帮助您在任何地点访问内容时都保持隐私和速度。</p>\n                <a href=\"#plans\" class=\"hero-cta\">立即了解套餐</a>\n            </div>\n            <div class=\"hero-visual\">\n                <div class=\"hero-visual-content\">\n                    <p>全球节点<br>即时连接<br>零延迟</p>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    \n    <section class=\"section\" id=\"plans\">\n        <div class=\"container\">\n            <h2>选择适合您的套餐</h2>\n            <div class=\"plans\">\n                \n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-number\">01</div>\n                        <div class=\"plan-details\">\n                            <div class=\"plan-name\">基础版</div>\n                            <div class=\"plan-price\">¥15/月</div>\n                            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 100GB 极速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                </div>\n\n                \n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-number\">02</div>\n                        <div class=\"plan-details\">\n                            <div class=\"plan-name\">旗舰版</div>\n                            <div class=\"plan-price\">¥35/月</div>\n                            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 300GB 极速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                    </div>\n                </div>\n\n                \n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-number\">03</div>\n                        <div class=\"plan-details\">\n                            <div class=\"plan-name\">团队版</div>\n                            <div class=\"plan-price\">¥85/月</div>\n                            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 1000GB 极速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    \n    <section class=\"section\" id=\"faq\">\n        <div class=\"container\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                \n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">什么是飞飞网络？</div>\n                    <div class=\"faq-answer\">\n                        飞飞网络是一个提供加密网络通道的服务，帮助用户在任何地点访问内容时保持隐私和速度。我们采用现代加密技术，确保您的连接安全且透明。\n                    </div>\n                </div>\n\n                \n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">基础版和旗舰版有什么区别？</div>\n                    <div class=\"faq-answer\">\n                        基础版提供每月 100GB 流量和 3 台设备同时在线。旗舰版升级到每月 300GB 流量、5 台设备支持以及 IPLC 专线游戏加速，适合需要更高流量的用户。\n                    </div>\n                </div>\n\n                \n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">如何开始使用？</div>\n                    <div class=\"faq-answer\">\n                        您可以直接在我们的官网上注册账号，选择适合的套餐，然后通过提供的指引设置您的加密网络连接。整个过程简单且快速。\n                    </div>\n                </div>\n\n                \n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">支持多少设备同时在线？</div>\n                    <div class=\"faq-answer\">\n                        基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台。不同的套餐根据您的需求和流量分配有相应的限制。\n                    </div>\n                </div>\n\n                \n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">流量如何计算？</div>\n                    <div class=\"faq-answer\">\n                        每月流量以使用量为准。任何剩余流量可以自动续费或升级到更高套餐。详细信息请参考套餐页面的说明。\n                    </div>\n                </div>\n\n                \n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">是否支持游戏加速？</div>\n                    <div class=\"faq-answer\">\n                        旗舰版及以上套餐支持 IPLC 专线游戏加速优化，能有效减少延迟，提升游戏体验。\n                    </div>\n                </div>\n\n                \n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">服务提供商是否透明？</div>\n                    <div class=\"faq-answer\">\n                        我们提供透明的节点信息和使用统计，确保用户随时了解网络状态和流量使用情况。\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <footer class=\"footer\">\n        <div class=\"container\">\n            <div class=\"footer-content\">\n                <div>\n                    <div class=\"footer-col\">\n                        <h4>飞飞网络</h4>\n                        <a href=\"#\">关于我们</a>\n                        <a href=\"#\">联系我们</a>\n                        <a href=\"#\">隐私政策</a>\n                    </div>\n                </div>\n                <div>\n                    <div class=\"footer-col\">\n                        <h4>快速链接</h4>\n                        <a href=\"#plans\">套餐详情</a>\n                        <a href=\"#\">帮助中心</a>\n                        <a href=\"#\">更新日志</a>\n                    </div>\n                </div>\n                <div>\n                    <div class=\"footer-col\">\n                        <h4>公司信息</h4>\n                        <p>飞飞网络专注于安全透明的加密网络服务。</p>\n                        <a href=\"#\">© 2026 飞飞网络</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </footer></main>",
+          "hash": "9b9a286c3e48e95e09a116beae277deea0b638f55840dd898a5b67ccd48a0756",
+          "seo": {
+            "title": "飞飞网络 | 安全透明的加密网络服务",
+            "keywords": "飞飞网络,加密网络,网络服务,隐私保护,流量加速,基础版,旗舰版,团队版",
+            "description": "飞飞网络：安全透明的加密网络服务，满足不同用户和团队的隐私需求。了解我们的基础版、旗舰版和团队版套餐，以及如何开始使用。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "5686",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "7 石板灰配青色",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wauxk.cn",
+    "host": "p-4d678b063f.wauxk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "fafee6094085edd9d3226be5559a9cc809bcab1b38a0793818ef56ecd0b303c9",
+    "sitemap.xml": "00fefe0ec4a1eeb259b82dab4062bc937cd9aa01552ce98ad1c27e245f9d391c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "081fd235997cea5510a0a86685b582fce1e383bde110bc291adf25e08e3eeb56",
+    "robots.txt": "c5b435fc47c2a6168297c7d80b18791313c51a6624a65004fab6c9cb6b84195f",
+    "d2bc56daf75b4478959c5cdd36842d08.txt": "86653c36e295c90ec7056055d44c07cb28919d63bf531ea28a6f8e223bf62067"
+  },
+  "revision": "f6f84a55f7a1bc5ccde00657ca3e53e0e84e4d29bf94aac0687a6f0cf7c5359a"
+}
